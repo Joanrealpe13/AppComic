@@ -1,0 +1,89 @@
+body{
+
+	background-color: #D0D0D0;
+	height: 100%;
+}
+
+.titulo{
+	display
+}
+.btn-light{
+	border-radius: 10px;
+}
+.main-container{
+	background-color: rgba(255,255,255,0.5);
+	border-radius: 10px;
+	padding-top: 82px;
+	
+}
+.picture1{
+	padding-top: 2em;
+	clear: both;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1.5em;
+    width: 70%;
+}
+.media{
+	display: inline-block;
+}
+.title{
+	text-align: center;
+	padding-top: 2em;
+}
+.analisis>p{
+	padding: 1em;
+	color: white;
+}
+.title2{
+	text-align: center;
+	padding-top: 1em;
+	color: white;
+}
+.img-carousel{
+	width: 70%;
+}
+.carousel-indicators{
+	bottom: 300px;
+}
+@media (min-width: 1400px){
+	.img-carousel{
+		width: 70%;
+	}
+	
+}
+.img-responsive{
+	width: 100%;
+}
+
+@media (min-width: 576px){
+	.modal-dialog{
+   	 max-width: 800px;
+   	 margin: 1.75rem auto;
+	}
+}
+@media (min-width: 768px) { 
+	.picture1{
+	    width: 90%;
+	}
+}
+@media (min-width: 1200px) { 
+	.picture1{
+	    width: 70%;
+	}
+	.carousel-control-prev, .carousel-control-next{
+		height: 100%;
+	}
+}
+.footer{
+	color: white;
+	background-color: #1F1F1F;
+	height: 8em;
+}
+.iconos-media{
+	width: 40px;
+}
+#carousel-example-2{
+	padding-bottom: 2em;
+}
